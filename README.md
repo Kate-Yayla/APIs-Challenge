@@ -6,7 +6,7 @@ Using g_key and OpenWeather key, I created a Python script to visualize the weat
 
 ![Equator](Images/equatorsign.png)
 
-The objective is to build a series of scatter plots to showcase the relationships as shown below:
+Scatter plots created to show the relation between Latitude and Cloudiness, Humidity, Temperature and Wind Speed. 
 
 # Latitude vs. Cloudiness Plot
 ![](output_data/Latitude%20vs.%20Cloudiness%20Plot.png )
