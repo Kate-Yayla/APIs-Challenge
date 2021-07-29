@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this work, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.I utilized a simple Python library, the OpenWeatherMap API, and also create a representative model of weather across world cities.
+Using g_key and OpenWeather key, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.I utilized a simple Python library, the OpenWeatherMap API, and also create a representative model of weather across world cities.
 
 ![Equator](Images/equatorsign.png)
 
